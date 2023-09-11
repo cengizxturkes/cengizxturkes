@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cengizxturkes&show_icons=true&locale=en" alt="cengizxturkes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cengizxturkes&" alt="cengizxturkes" /></p>
+![snake gif](https://github.com/cengizxturkes/cengizxturkes/blob/output/github-contribution-grid-snake.gif)
