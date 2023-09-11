@@ -1,4 +1,5 @@
-[![MasterHead]([[https://w0.peakpx.com/wallpaper/273/881/HD-wallpaper-code-programming-monitor-hacker.jpg]])
+[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://w0.peakpx.com/wallpaper/273/881/HD-wallpaper-code-programming-monitor-hacker.jpg))
+
 <h1 align="center">Hi 👋, I'm Cengiz</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
