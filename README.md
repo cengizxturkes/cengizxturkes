@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
 
-
+<script src="https://gist.github.com/SuperQuentin/f0c308153f797038476699309df89261.js"></script>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cengizxturkes" alt="cengizxturkes" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter,React Native**
