@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Cengiz</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-<script src="https://gist.github.com/SuperQuentin/f0c308153f797038476699309df89261.js"></script>
-
-
 - 🔭 I’m currently working on **Flutter,React Native**
 
 - 🌱 I’m currently learning **Nest Js**
