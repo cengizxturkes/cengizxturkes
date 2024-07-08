@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Cengiz</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate developer from Turkey</h3>
 
  <img src="https://komarev.com/ghpvc/?username=cengizxturkes&label=Profile%20views&color=0e75b6&style=flat" alt="cengizxturkes" /> </p>
 
