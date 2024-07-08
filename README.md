@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Cengiz</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-
+https://camo.githubusercontent.com/136175e1ae6c819e347411b4ebe03c64117730907c137d97e84e9e5e7ded31f7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cengizxturkes&label=Profile%20views&color=0e75b6&style=flat" alt="cengizxturkes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cengizxturkes" alt="cengizxturkes" /></a> </p>
