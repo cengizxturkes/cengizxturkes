@@ -1,8 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Cengiz</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
+![](http://i.imgur.com/OUkLi.gif)
 
- <img src="https://komarev.com/ghpvc/?username=cengizxturkes&label=Profile%20views&color=0e75b6&style=flat" alt="cengizxturkes" /> </p>
+![](http://i.imgur.com/Ssfp7.gif)
+
+![](http://i.imgur.com/60bts.gif)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cengizxturkes" alt="cengizxturkes" /></a> </p>
 
