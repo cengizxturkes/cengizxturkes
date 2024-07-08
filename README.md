@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Cengiz</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-!(https://gist.githubusercontent.com/SuperQuentin/f0c308153f797038476699309df89261/raw/c6ec58600310aa8339d9a4860671f2056c645855/cat.gif)
+![Cat](https://gist.githubusercontent.com/SuperQuentin/f0c308153f797038476699309df89261/raw/c6ec58600310aa8339d9a4860671f2056c645855/cat.gif)
 - 🔭 I’m currently working on **Flutter,React Native**
 
 - 🌱 I’m currently learning **Nest Js**
