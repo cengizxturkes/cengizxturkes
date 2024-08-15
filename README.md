@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Cengiz</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-- 🔭 I’m currently working on **Flutter,React Native**
+- 🔭 I’m currently working on **Flutter,React Native,NodeJs**
 
 - 🌱 I’m currently learning **Nest Js**
 
-- 💬 Ask me about **flutter,react**
+- 💬 Ask me about **flutter,react,nodeJs**
 
 - 📫 How to reach me **turkes2214@gmail.com**
 
