@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Animated Matrix-style Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ff87&height=200&section=header&text=Cengiz%20Türkeş&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%20Developer%20%7C%20Android%20Engineer%20%7C%20Full%20Stack%20Craftsman&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ff87&height=200&section=header&text=Cengiz%20Türkeş&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.MOBILE%20Developer%20%7C%20Android%20Engineer%20%7C%20Full%20Stack%20Craftsman&descSize=18&descAlignY=55"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
