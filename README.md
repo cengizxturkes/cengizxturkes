@@ -104,12 +104,12 @@ var cengiz = new Developer
 
 <!-- Streak Stats -->
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=cengixturkes&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00ff87&fire=00d9ff&currStreakLabel=00ff87" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=cengizxturkes&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00ff87&fire=00d9ff&currStreakLabel=00ff87" alt="GitHub Streak" />
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cengixturkes&bg_color=0d1117&color=00ff87&line=00d9ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cengizxturkes&bg_color=0d1117&color=00ff87&line=00d9ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
 
 <!-- CONTRIBUTION SNAKE -->
@@ -124,7 +124,7 @@ var cengiz = new Developer
 
 <!-- Profile Views & Random Dev Quote -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cengixturkes&label=Profile%20Views&color=00ff87&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=cengizxturkes&label=Profile%20Views&color=00ff87&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 </div>
 
 <br>
